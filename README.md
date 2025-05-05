@@ -1,2 +1,16 @@
-# Customer_details_app
-The app works as follows:  Displays the customer information in a card layout Has a floating action button for editing When editing, a dialog appears with text fields pre-filled with current values The age field can be left empty (it will show as "Not provided" on the profile) After saving, the main screen updates with the new information
+# flutter_app_verraki
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
